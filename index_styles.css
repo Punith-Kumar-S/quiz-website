@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+    font-family: 'Poppins';
+}
+
+section{
+    background-image: linear-gradient(to right,#C33764,#1D2671);
+    height: 100vh;
+}
+
+.box{
+    width: 300px;
+    height: fit-content;
+    background-color: white;
+}
+
+.quiz_box{
+    width: fit-content;
+    height: fit-content;
+    background-color: white;
+}
+
+.btn{
+    border-radius: 0px; 
+    outline: none;
+}
+
